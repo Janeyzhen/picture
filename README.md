@@ -1,0 +1,2 @@
+# picture
+typora_related
